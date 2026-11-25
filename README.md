@@ -53,7 +53,7 @@ Monitors flame detection on **`PD2`**:
 ## Simulation & Tools
 - **IDE / Compiler:** Eclipse IDE with AVR toolchain (`ATmega32`, `16 MHz`)
 - **Simulation & Monitoring:** Proteus (including virtual oscilloscope monitoring on `PB3`)
-
+![Proteus Simulation Circuit](docs/proteus_circuit.png)
 ## How to Build & Run
 1. Import the project into **Eclipse IDE** using the existing `.project` and `.cproject` files.
 2. Verify the target MCU is set to **ATmega32** and clock frequency to **16 MHz**.
