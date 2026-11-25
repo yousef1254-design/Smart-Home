@@ -1,0 +1,19 @@
+# Build outputs
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lss
+
+# Eclipse IDE temp files
+.metadata/
+*.bak
+*.tmp
+
+# Proteus backup files
+Backup of *.pdsprj
+*.pdsbak
